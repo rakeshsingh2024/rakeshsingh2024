@@ -1,6 +1,6 @@
 ### Hi there 👋, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 Rakesh
 #### 𝐈 𝐚𝐦 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐞𝐦𝐛𝐫𝐚𝐜𝐞 𝐞𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐰𝐞𝐛 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
-![𝐈 𝐚𝐦 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐞𝐦𝐛𝐫𝐚𝐜𝐞 𝐞𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐰𝐞𝐛 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬](https://github.com/vikash-Kumar-Singh9/vikash-Kumar-Singh9/blob/main/banner.jpg?raw=true)<br>
+![𝐈 𝐚𝐦 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐞𝐦𝐛𝐫𝐚𝐜𝐞 𝐞𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐰𝐞𝐛 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬]<br>
 A front-end web developer is responsible for implementing visual elements that users see and interact with in a web application.
 - 🌱 I’m currently learning Web Technologies
 - 💬 Ask me about 𝗝𝗮𝘃𝗮
