@@ -1,6 +1,5 @@
 ### Hi there 👋, 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 Rakesh
 #### 𝐈 𝐚𝐦 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐞𝐦𝐛𝐫𝐚𝐜𝐞 Artificial Intelligence 
-![𝐈 𝐚𝐦 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐞𝐦𝐛𝐫𝐚𝐜𝐞 Artificial Intelligence]<br>
 Data annotators label and tag data to train AI models
 - 🌱 I’m currently learning Prompt Engineering 
 - 💬 Ask me about AIML 
