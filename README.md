@@ -3,7 +3,7 @@
 Data annotators label and tag data to train AI models
 - 🌱 I’m currently learning Prompt Engineering 
 - 💬 Ask me about AIML 
-- ⚡ Fun fact: 𝗜 𝘀𝗽𝗲𝗻𝘁 𝗱𝗮𝗶𝗹𝘆 𝘁𝘄𝗼 𝗵𝗼𝘂𝗿 𝗶𝗻 𝗾𝘂𝗼𝗿𝗮 
+- ⚡ Fun fact: I love Babd , Beetal and Badminton.
 - 📫 How to reach me: <br>[<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:rakeshsingh2024@gmail.com)
 [<img src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://github.com/rakeshsingh2024)  [<img src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>](https://www.linkedin.com/in/rakeshsingh2024/)   [<img src="https://img.icons8.com/fluent/48/000000/domain.png"/>](https://rakesh) 
 
